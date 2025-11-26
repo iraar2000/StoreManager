@@ -1,0 +1,8 @@
+"image,name,cost,price,quantity,product_code,brand,category_name,type,unit_code,warehouse,location,product_details,variant_value,variant_name,item_code,additional_cost,additional_price"
+"default.png,BMW 7-SERIES E65 2004-,9.99,9.99,120,FW2312,N/A,WindShield,standard,pc,'KARURUMA,GATSATA','A12,B13',this is the front wind shield for the bmw 7 -series e65 2004-,,,,,"
+"default.png,BMW 7-SERIES E65 2004-,9.99,9.99,100,BWE652004,N/A,WindShield,standard,pc,'KARURUMA,GATSATA','A98,B54',this is the Back wind shield for the bmw 7 -series e65 2004-,,,,,"
+"default.png,HONDA CIVIC 4D 1996-,10.99,20.99,150,FW822,N/A,WindShield,standard,pc,'KARURUMA,GATSATA','A98,B66',this is the front wind shield for the honda civiv 4d 1996-,,,,,"
+"default.png,FORD RANGER,100.99,199.99,2300,RANGER RW/H/X,N/A,WindShield,standard,pc,'KARURUMA','A32',this is the Right wind shield for the FORD RANGER,,,,,"
+"default.png,HYUNDAI COUNTY BUS 99-,299.99,299.99,100,COUNTY SF/RH5/X,N/A,WindShield,standard,pc,'GATSATA','A43',this is the side windshield for the HYUNDAI COUNTY BUS 99-,,,,,"
+"default.png,HYUNDAI COUNTY BUS 99-,299.99,299.99,230,COUNTY BF/RH6/B,N/A,WindShield,standard,pc,'GATSATA','A56',this is the Back windshield for the HYUNDAI COUNTY BUS 99-,,,,,"
+"default.png,HYUNDAI COUNTY BUS 99-,299.99,299.99,230,COUNTY WF/RH7/B,N/A,WindShield,standard,pc,'KARURUMA,GATSATA','A65,B76',this is the Front windshield for the HYUNDAI COUNTY BUS 99-,,,,,"
